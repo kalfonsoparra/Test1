@@ -1,0 +1,7 @@
+C:\Users\kevin\Desktop\Taller p3\p3\Taller\bin\Debug\Taller.exe.config
+C:\Users\kevin\Desktop\Taller p3\p3\Taller\bin\Debug\Taller.exe
+C:\Users\kevin\Desktop\Taller p3\p3\Taller\bin\Debug\Taller.pdb
+C:\Users\kevin\Desktop\Taller p3\p3\Taller\obj\Debug\Taller.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Taller p3\p3\Taller\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Taller p3\p3\Taller\obj\Debug\Taller.exe
+C:\Users\kevin\Desktop\Taller p3\p3\Taller\obj\Debug\Taller.pdb

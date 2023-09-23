@@ -9,6 +9,8 @@ namespace Taller
 
             Console.WriteLine("hello word");
             Console.ReadKey();
+            Console.WriteLine("hemos realizado nuestro primer commit");
+            Console.ReadKey();
         }
     }
 }
